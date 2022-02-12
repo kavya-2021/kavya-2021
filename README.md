@@ -1,19 +1,3 @@
-<!-- ### Hi, I'm Kavya 👋
-
-🔭 I’m currently working on purplle-Replica
-
-🌱 I’m currently learning React
-
-👯 I’m looking to collaborate on ...
-<!-- - 🤔 I’m looking for help with ... -->
-
-💬 Ask me about HTML,JavaScript, 
-
-📫 How to reach me: ...
-<!-- 😄 Pronouns: ...
-⚡ Fun fact: --> -->
-
-
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Kavya</h1>
 <p align="center">
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=red&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+web+developer." /></a>
