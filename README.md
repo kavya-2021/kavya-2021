@@ -4,7 +4,7 @@
 </p>
 <!-- ![Night-Coding](https://user-images.githubusercontent.com/88575764/142670455-c19ae283-4950-4548-a3dc-26d8a9804b97.gif) -->
 <h2 align="center">About me: 👨🏽‍💻</h2>
-<p align="center">I am a Full-stack web developer and I love coding💻. I've worked on cloning websites using HTML,CSS,Javascript as basic versions. Few projects I worked on also involved usage of ExpressJS, Node.js, mongoDb. I've gained experience with practice. <br/> I’m looking for an opportunity to learn something new. <br/> I’m currently learning🌱 React and applying them on few basic applications you can check them here. <a href="https://github.com/kavya-2021/React-Examples">Click Here<a/> <br/> <br/>
+<p align="center">I am a Full-stack web developer and I love coding💻. I've worked on cloning websites using HTML,CSS,Javascript as basic versions. Few projects I worked on also involved usage of ExpressJS, Node.js, mongoDb. I've gained experience with practice. <br/> <br/> I’m looking for an opportunity to learn something new. <br/> I’m currently learning🌱 React and applying them on few basic applications you can check them here. <a href="https://github.com/kavya-2021/React-Examples"> <b>Click Here<b/><a/> <br/> <br/>
   Other than the coding I'm interested in badminton,yoga, and travelling .</p>
 <h2 align="center">Languages and tools: 🧰</h2>
 
